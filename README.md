@@ -1,1 +1,1 @@
-# 404
+https://krisderycke.github.io/404/
