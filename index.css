@@ -10,14 +10,21 @@ body {
 }
 
 h1 {
-    color:white;
+    background-color: rgba(235, 214, 214, 0.8);
+    color:rgb(206, 5, 5);
     margin:auto;
     margin-top:20px;
     width:50%;
-    border-style: dashed;
-    border-color: white;
+    border-style: hidden;
+    border-radius: 20%;
     padding:10px;
+    text-align: center;
     
+}
+
+img {
+    border-style: hidden;
+    border-radius: 50%;
 }
 
 
