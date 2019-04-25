@@ -1,0 +1,28 @@
+body {
+    font-family: 'ZCOOL KuaiLe', cursive;
+    background-image: url(glass.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    background-size: cover;
+       
+}
+
+h1 {
+    color:white;
+    margin:auto;
+    margin-top:20px;
+    width:50%;
+    border-style: dashed;
+    border-color: white;
+    padding:10px;
+    
+}
+
+
+img:hover {
+    background-color: rgb(231, 8, 8);
+    transition: 0.9s;
+}
+
